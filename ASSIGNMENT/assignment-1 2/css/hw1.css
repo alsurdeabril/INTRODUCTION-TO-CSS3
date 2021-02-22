@@ -1,0 +1,36 @@
+/* Objectives:
+Create a style sheet and link it to the html files.  (Without changing the html.)
+ Style the sheet using the properties color, background-color, text-align, text-transform, and/or display */
+
+header {
+    background-color: #c5b4b4;
+}
+
+
+nav {
+    background-color: #c4dd8a;
+    text-align: center;
+}
+
+h1,
+h2 {
+
+    text-transform: uppercase;
+}
+
+h1 {
+    color: #ecece4;
+    text-align: center;
+}
+
+h2 {
+    color: #3313c3;
+}
+
+section {
+    background-color: #a79494;
+}
+
+img {
+    display: none;
+}
